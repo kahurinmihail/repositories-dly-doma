@@ -5,9 +5,9 @@
 
 #input ("ВВЕДИ СВОЙ ВОЗРАСТ Ссынок: ")
 
-NUM1 = str(input ("Любой символ: "))
-print ("Результат", NUM1)
-print ("Результат", NUM1,NUM1)
-print ("Результат", NUM1,NUM1,NUM1)
-print ("Результат", NUM1,NUM1,NUM1,NUM1)
-print ("Результат", NUM1,NUM1,NUM1,NUM1,NUM1)
+#NUM1 = str(input ("Напиши любой символ : "))
+#print (NUM1)
+#print (NUM1,NUM1)
+#print (NUM1,NUM1,NUM1)
+#print (NUM1,NUM1,NUM1,NUM1)
+#print (NUM1,NUM1,NUM1,NUM1,NUM1)
