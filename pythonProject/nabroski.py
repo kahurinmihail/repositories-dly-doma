@@ -5,7 +5,7 @@
 
 #input ("ВВЕДИ СВОЙ ВОЗРАСТ Ссынок: ")
 
-NUM1 = str(input ("Напиши любой символ : "))
+NUM1 = int(input ("Напиши любой символ : "))
 print (NUM1)
 print (NUM1*2)
 print (NUM1*3)
