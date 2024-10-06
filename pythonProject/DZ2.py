@@ -23,7 +23,7 @@ elif NUM1 ==11:
     print("Ноябрь")
 elif NUM1 ==12:
     print ("Декабрь")
-if NUM1 < 1:
+elif NUM1 < 1:
     print("Неверный запрос")
-if NUM1 > 12:
+elif NUM1 > 12:
     print("Неверный запрос")
